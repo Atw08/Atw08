@@ -16,8 +16,8 @@
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/url
-[youtube]: https://www.youtube.com/c/url
+[twitter]: https://twitter.com/12345
+[youtube]: https://www.youtube.com/c/12435
 [linkedin]:https://www.linkedin.com/in/sean-d-28381b143/
 
 <!--
