@@ -8,7 +8,7 @@
 
 <h2>📺YouTube Videos</h2>
 
-- [Active Diretory Home Lab](https://www.youtube.com/LABURL)
+- Coming Soon!
 
 <h2> 🤳 Connect with me:</h2>
 
