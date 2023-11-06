@@ -1,9 +1,8 @@
 <h1>Hello World, I'm Sean! </h1>
 
 <h2>👨‍💻 Projects:</h2>
-
-  - [Active Directory Home Lab](https://github.com/LABURL)
-  - [Hello World!](https://github.com/LABURL) 
+ 
+  - [Hello World!](https://github.com/Atw08/Website-Boilerplate/tree/main)
 
 <h2>🎖️Certifications</h2>
 
